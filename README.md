@@ -1,17 +1,10 @@
-# Nome do meu projeto
+# Projeto Valida CEP
 
-Rápida descrição do objetivo de fazer esse projeto
+Nesse projeto construí uma aplicação que consome os dados da API Valida CEP e devolve as informações no terminal e também cria um arquivo convertido em JSON.
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+Segue print da aplicaçãõ no terminal: 
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![java](https://user-images.githubusercontent.com/95857175/236316368-5c7cb423-5fb0-4a64-ab96-52a37406b29b.png#vitrinedev)
 
-## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+
